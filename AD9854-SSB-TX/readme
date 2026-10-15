@@ -1,0 +1,3 @@
+Experimental SSB generator using AD9854, Teensy 4.1 for audio processing,
+and Pico 2 for DDS control.  Uses polar modulation.  Mostly coded by Claude 
+under my direction.  Do not try to transmit into an aneteena with this.
